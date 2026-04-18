@@ -1,0 +1,1422 @@
+#EXTM3U8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://static.mar.tv/logos/320/1.png" tvg-name="1 TV GE" group-title="MYIPTV ქართული",GE: 1 Arkhi HD
+http://tinyurl.com/3zje87av/gpb/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="TVPirveli.ge" tvg-logo="https://img.ge/ib/th5Bd50.png" tvg-name="TV PIRVELI" group-title="MYIPTV ქართული",GE: Pirveli HD
+http://tinyurl.com/3zje87av/pirvelitv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://img.ge/ib/ETkjf40.png" tvg-name="RUSTAVI 2" group-title="MYIPTV ქართული",GE: Rustavi 2
+http://tinyurl.com/3zje87av/rustavi2hqnew/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Formula.ge" tvg-logo="https://static.mar.tv/logos/320/26.png" tvg-name="FORMULA" group-title="MYIPTV ქართული",GE: Formula HD
+http://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge" tvg-logo="https://img.ge/ib/QuUU293.png" tvg-name="IMEDI TV HD" group-title="MYIPTV ქართული",GE: Imedi
+https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="GDSTV.ge" tvg-logo="https://img.ge/i/FwC8E64.jpg" tvg-name="GDS TV" group-title="MYIPTV ქართული",GE: GDS
+http://tinyurl.com/3zje87av/gdstv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15495/e3d72f00-2a0a-11e9-948d-358c2a2c02cb_100x100.png" group-title="MYIPTV ქართული",GE: POSITIVE TV
+http://158.101.222.193:88/georgia_play.php?id=positivetv
+#EXTINF:-1 tvg-logo="https://img.ge/ib/uwN7u20.png" group-title="MYIPTV ქართული",GE: Rioni 2
+https://nexytv.net/nexy_tv.ge.rioni2tv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.mar.tv/logos/320/25.png" group-title="MYIPTV ქართული",GE: Trialeti
+https://nexytv.net/nexy_tv.ge.trialeti/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.mar.tv/logos/320/54.png" group-title="MYIPTV ქართული",GE: Sezoni TV
+https://nexytv.net/st_sezoni_9093/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/iOFpk30.jpg" group-title="MYIPTV ქართული",GE: Pos TV HD
+http://tinyurl.com/3zje87av/postv/tracks-v1a1/index.m3u8
+#EXTINF:-1 lo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1757593501606.png" tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1757593501606.png" group-title="MYIPTV ქართული",GE: Chveni Arkhi
+https://nexytv.net/st_chveniarxi_9103/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2240.png" group-title="MYIPTV ქართული",GE: TVC
+http://tinyurl.com/3zje87av/comedytv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1588.png" group-title="MYIPTV ქართული",GE: Comedy Arkhi
+http://tinyurl.com/3zje87av/comedy/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2816.png" group-title="MYIPTV ქართული",GE: Akhali Formula HD
+http://tinyurl.com/3zje87av/formula-new/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1204.png" group-title="MYIPTV ქართული",GE: Maestro TV
+https://nexytv.net/st_maestro_9087/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/aia.png" group-title="MYIPTV ქართული",აია TV
+http://2.57.217.99:8080//hls/aia/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/16312/ce037440-115b-11ec-ab0e-a3c379237930_100x100.png" group-title="MYIPTV ქართული",GE: TV Mze
+http://158.101.222.193:88/georgia_play.php?id=tvmze
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15702/aab0a800-e683-11e9-8c77-39f4e298106f_100x100.png" group-title="MYIPTV ქართული",GE: Egrisi TV
+http://158.101.222.193:88/georgia_play.php?id=egrisitv
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1611.png" group-title="MYIPTV ქართული",GE: Odishi HD
+http://tinyurl.com/3zje87av/odishi/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15985/15181a90-e78c-11ea-9a5f-8dd25de73e7d_100x100.png" group-title="MYIPTV ქართული",GE: Green TV
+http://158.101.222.193:88/georgia_play.php?id=greentv
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/469be110-a832-11e7-8ce1-27a810f741b9_100x100.png" group-title="MYIPTV ქართული",GE: Gurjaani
+http://158.101.222.193:88/georgia_play.php?id=gurjaani
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/0fe43fd0-a832-11e7-85c2-f74f632ce333_100x100.png" group-title="MYIPTV ქართული",GE: Imervizia HD
+http://158.101.222.193:88/georgia_play.php?id=imervizia
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15984/493d1520-e6ab-11ea-a7f3-c14ab881f3f2_100x100.gif" group-title="MYIPTV ქართული",GE: Kolkheti 89 TV
+http://158.101.222.193:88/georgia_play.php?id=kolkheti89
+#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/regionnews.png" group-title="MYIPTV ქართული",GE: Region News
+http://158.101.222.193:88/georgia_play.php?id=marneulitv
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/b7287a40-a831-11e7-9b9e-515830e6233e_100x100.png" group-title="MYIPTV ქართული",GE: Mega TV
+http://158.101.222.193:88/georgia_play.php?id=megatv
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15990/969aef40-ec37-11ea-94d9-2bf793bf4151_100x100.png" group-title="MYIPTV ქართული",GE: Meckhre Arkhi
+http://158.101.222.193:88/georgia_play.php?id=nwbctv
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/16777/3c072a10-b806-11ed-bab3-c5b1929abea3_100x100.png" group-title="MYIPTV ქართული",GE: TV Plus HD
+http://158.101.222.193:88/georgia_play.php?id=plustv
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15489/7067e250-247d-11e9-b493-bbcbc6692870_100x100.png" group-title="MYIPTV ქართული",GE: Starvision TV HD
+http://158.101.222.193:88/georgia_play.php?id=starvision
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-logo="https://static.mar.tv/logos/320/30.png" tvg-name="PALITRA NEWS" group-title="MYIPTV ქართული",GE: Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/ib/klaaZ85.png" group-title="MYIPTV ქართული",GE: EuroNews
+https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2241.png" group-title="MYIPTV ქართული",GE: BMG
+http://tinyurl.com/3zje87av/bmg/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1616.png" group-title="MYIPTV ქართული",GE: Georgian Times
+http://tinyurl.com/3zje87av/gttv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="MaraoTV.ge" tvg-logo="https://img.ge/ib/baMR186.png" tvg-name="MARAO" group-title="MYIPTV ქართული",GE: Marao
+https://nexytv.net/st_marao_9086/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Maestro.ge" tvg-logo="http://troya.tv/images/chIcons/1210.png" tvg-name="MAESTRO" group-title="MYIPTV ქართული",GE: TV25
+http://tinyurl.com/3zje87av/tv25/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Ertsulovneba.ge" tvg-logo="https://static.mar.tv/logos/320/9.png" tvg-name="ERTSULOVNEBA" group-title="MYIPTV ქართული",GE: Ertsulovneba
+http://tinyurl.com/3zje87av/ertsulovneba/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ObieqtiviTV.ge" tvg-logo="https://static.mar.tv/logos/320/7.png" tvg-name="OBIEQTIVI" group-title="MYIPTV ქართული",GE: Obieqtivi
+http://tinyurl.com/3zje87av/obiektivi/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="AjaraTV.ge" tvg-logo="https://static.mar.tv/logos/320/19.png" tvg-name="ADJARA TV" group-title="MYIPTV ქართული",GE: Ajara HD
+http://tinyurl.com/3zje87av/adjara/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1602.png" group-title="MYIPTV ქართული",GE: Batumi TV
+http://tinyurl.com/3zje87av/batumitv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1597.png" group-title="MYIPTV ქართული",GE: Guriatv HD
+http://tinyurl.com/3zje87av/guriatv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1596.png" group-title="MYIPTV ქართული",GE: Kavkasia
+http://tinyurl.com/3zje87av/caucasia/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2239.png" group-title="MYIPTV ქართული",GE: Rioni
+http://tinyurl.com/3zje87av/rioni/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.mar.tv/logos/320/15.png" group-title="MYIPTV ქართული",GE: Abkhaz
+http://tinyurl.com/3zje87av/abkhaz/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2242.png" group-title="MYIPTV ქართული",GE: TV Zari
+http://tinyurl.com/3zje87av/tvzari/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Aehhv29.png" group-title="MYIPTV ქართული",მეცხრე არხი
+http://tinyurl.com/3zje87av/nwbctv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://img.ge/i/hCkYP3.png" tvg-name="Georgian Movies Tv" group-title="MYIPTV ქართული",ქართული კინო 1
+https://glb.bozztv.com/glb/ushba23/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/TQIDX1.png" tvg-name="QARTULIKINIO TV 2" group-title="MYIPTV ქართული",ქართული კინო 2
+https://glb.bozztv.com/glb/ushba22/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC1BmWJy/3.png" group-title="MYIPTV ქართული",ქართული კინო 3
+https://glb.bozztv.com/glb/ushba51/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/8U6nY84.png" group-title="MYIPTV ქართული",ქართული კინო 4
+https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Aehhv29.png" group-title="MYIPTV ქართული",ქართთული დოკ 1
+https://glb.bozztv.com/glb/ushba37/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Aehhv29.png" group-title="MYIPTV ქართული",ქართული დოკ 2
+https://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Aehhv29.png" group-title="MYIPTV ქართული",ქართული დოკ 3
+https://fl1004.bozztv.com/ushba-a2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Aehhv29.png" group-title="MYIPTV ქართული",ქართული დოკ 4
+https://fl1003.bozztv.com/ushba2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Aehhv29.png" group-title="MYIPTV ქართული",ქართული დოკ 5
+https://glb.bozztv.com/glb/ushba18/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/ib/7eSf071.png" group-title="MYIPTV ქართული",GE: Silk Kino Holiwood
+http://tinyurl.com/3zje87av/silkhollywood/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://img.ge/ib/ceVlg71.png" tvg-name="Silk kino kolecia" group-title="MYIPTV ქართული",GE: Silk Kino Collection
+https://tbs01-edge09.itdc.ge/silkmoviecollection/index.m3u8?token=HFHc0F0cxNwnpokejJKPboBthQkzCR1PnqmKwS3YsANnQPBNx04OHv4jXpNjawGJ7tq7awWEIeCwdL19rmshtYmrYonTfQ7i087279Oi4972XGhAX2BjTFkjmZ3b1UB3MMOtwXDUc2mIEdsVR4gvHFXflQnm0aknxOr-9mWKIHnGVHNatsltRvm5H1hma00JPoFLe5jdEazLUVP3U4KS9zncvoa3zhiUznG7Zm95-TqeurBuiOLL6y-P4Bkq7WdobxfoYQ8LBWYvlv4k7PEyeLGQNIbl7I8-0BoZYAOATOBLBvG7rVztOS5Ofu2NIWHZxqFA**
+#EXTINF:-1 tvg-logo="https://img.ge/i/PglkE45.png" group-title="MYIPTV ქართული",GE: Silk Kids
+http://tinyurl.com/3zje87av/silkkids/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/m2OCJ45.png" group-title="MYIPTV ქართული",GE: Silk Documentary
+http://tinyurl.com/3zje87av/silkdocumentary/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1745873044469.png" group-title="MYIPTV ქართული",GE: Sdasu TV
+https://nexytv.net/nexy_tv.ge.sdasutv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1758288006509.png" group-title="MYIPTV ქართული",GE: L - TV
+https://nexytv.net/nexy_tv.ge.lilotvsrt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Hy2Wg96.png" group-title="MYIPTV ქართული",GE: Samefo Arkhi HD
+https://nexytv.net/st_royal_9091/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1757806555552.png" group-title="MYIPTV ქართული",TV12
+https://nexytv.net/st_tv12_9099/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/5tvge.png" group-title="MYIPTV ქართული",მეხუთე არხი
+http://2.57.217.99:8080//hls/50/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.mar.tv/logos/320/996.png" group-title="MYIPTV ქართული",GE: Alt-Info
+http://2.57.217.99:8080//hls/altinfo/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2823.png" group-title="MYIPTV ქართული",GE: Parlament TV
+http://2.57.217.99:8080//hls/parlament/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.mar.tv/logos/320/52.png" group-title="MYIPTV ქართული",GE: ARTv
+http://2.57.217.99:8080//hls/tafutv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.mar.tv/logos/320/51.png" group-title="MYIPTV ქართული",GE: AgroGaremo
+http://2.57.217.99:8080//hls/agrogaremo/index.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="MYIPTV რუსული",Первй канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="MYIPTV რუსული",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="MYIPTV რუსული",НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="MYIPTV რუსული",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="MYIPTV რუსული",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="MYIPTV რუსული",CGTN Русский HD
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="stv-by" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="MYIPTV რუსული",CTV.BY HD
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="MYIPTV რუსული",TV BRICS
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tro" tvg-logo="https://iptvx.one/picons/belros.png" group-title="MYIPTV რუსული",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="MYIPTV რუსული",Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://iptvx.one/picons/kongresstv.png" group-title="MYIPTV რუსული",Конгресс ТВ
+https://live-4.otcnet.ru/504/135/480p/index.m3u8
+#EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="MYIPTV რუსული",Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-id="ldpr-tv" tvg-logo="https://iptvx.one/picons/ldpr-tv.png" group-title="MYIPTV რუსული",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ont-by" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="MYIPTV რუსული",ОНТ
+http://194.158.222.36:6102
+#EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="MYIPTV რუსული",ПРНК HD
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 tvg-id="belarus24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="MYIPTV რუსული",Беларусь 24 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="MYIPTV რუსული",ВМЕСТЕ:РФ HD
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="MYIPTV რუსული",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="MYIPTV რუსული",Первый информационный HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="MYIPTV რუსული",Про бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="MYIPTV რუსული",РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="MYIPTV რუსული",Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="MYIPTV რუსული",Соловьев.Live HD
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="MYIPTV რუსული",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="MYIPTV რუსული",Viju+ sport
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png" group-title="MYIPTV რუსული",Астрахань Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="MYIPTV რუსული",Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="MYIPTV რუსული",Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sportivny" tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="MYIPTV რუსული",ТВ Спорт
+http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="MYIPTV რუსული",UNIVER
+#EXTVLCOPT:http-user-agent="#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
+https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="MYIPTV რუსული",Вопросы и ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="MYIPTV რუსული",Живая Планета
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-logo="https://iptvx.one/picons/moskovsky-obrazovatelny.png" group-title="MYIPTV რუსული",Мособр TV HD
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" group-title="MYIPTV რუსული",Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="MYIPTV რუსული",Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="MYIPTV რუსული",Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
+#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="MYIPTV რუსული",Duck TV
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="jimjam" tvg-logo="https://iptvx.one/picons/jimjam.png" group-title="MYIPTV რუსული",JimJam
+http://158.160.149.81:8080/269/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="MYIPTV რუსული",Nickelodeon
+http://x1co.com.br:8080/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://school.radiokids.fm/wp-content/uploads/2019/08/Logo_main.png" group-title="MYIPTV რუსული",RADIOKIDS.FM
+http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tiji" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="MYIPTV რუსული",TiJi
+http://31.210.208.171:8080/tiji/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="MYIPTV რუსული",Детский мир
+http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://iptvx.one/picons/capfantast.png" group-title="MYIPTV რუსული",Капитан Фантастика
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="MYIPTV რუსული",Карусель
+#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
+http://77.232.131.211/Karusel/index.m3u8
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="MYIPTV რუსული",Карусель Int.
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-title="MYIPTV რუსული",Мама
+http://31.210.208.171:8080/mama/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="MYIPTV რუსული",Мульт и Музыка
+http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png" group-title="MYIPTV რუსული",Мультиландия
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="MYIPTV რუსული",Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png" group-title="MYIPTV რუსული",Пингвин
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="MYIPTV რუსული",Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="MYIPTV რუსული",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="MYIPTV რუსული",СТС Kids
+http://178.124.153.123:44400/stskids
+#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-title="MYIPTV რუსული",Смайл ТВ HD
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://iptvx.one/picons/smotrim-100-detskoe.png" group-title="MYIPTV რუსული",Смотрим 100% Детское
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="MYIPTV რუსული",Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-id="shayantv" tvg-logo="https://iptvx.one/picons/shayantv.png" group-title="MYIPTV რუსული",Шаян ТВ (Татарстан)
+http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 tvg-id="belarus3" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="MYIPTV რუსული",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="MYIPTV რუსული",Россия К HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://iptvx.one/picons/smotrim-100-klassika.png" group-title="MYIPTV რუსული",Смотрим 100% Классика
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-id="teatr" tvg-logo="https://iptvx.one/picons/teatr.png" group-title="MYIPTV რუსული",Театр
+http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:-1 tvg-id="angel-tv" tvg-logo="https://iptvx.one/picons/angel-tv.png" group-title="MYIPTV რუსული",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/2136.png" group-title="MYIPTV რუსული",Life TV
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 tvg-id="muzsoyuz" tvg-logo="https://iptvx.one/picons/muzsoyuz.png" group-title="MYIPTV რუსული",МузСоюз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" group-title="MYIPTV რუსული",Надежда HD
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
+#EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png" group-title="MYIPTV რუსული",Союз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="MYIPTV რუსული",Спас
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="MYIPTV რუსული",2x2
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-id="rutube-tv" tvg-logo="https://iptvx.one/picons/rutube-tv.png" group-title="MYIPTV რუსული",RUTUBE TV
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
+#EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="MYIPTV რუსული",TV1 KG HD (Кыргызстан)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus2" tvg-logo="https://iptvx.one/picons/belarus2hd.png" group-title="MYIPTV რუსული",Беларусь 2 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="MYIPTV რუსული",Калейдоскоп ТВ
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="MYIPTV რუსული",Ключ
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="MYIPTV რუსული",НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://iptvx.one/picons/prodvizhenie.png" group-title="MYIPTV რუსული",Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="MYIPTV რუსული",Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="MYIPTV რუსული",СТС Int.
+#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
+http://158.101.222.193:88/georgia_play.php?id=ctctv
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" group-title="MYIPTV რუსული",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png" group-title="MYIPTV რუსული",1HD Music
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="MYIPTV რუსული",Bridge Русский хит
+http://193.25.8.59:8000/rusong
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="MYIPTV რუსული",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="MYIPTV რუსული",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="MYIPTV რუსული",RU TV
+http://5.188.159.128:8070/rutv/index.m3u8
+#EXTINF:-1 tvg-id="vostok-tv" tvg-logo="https://iptvx.one/picons/vostok-tv.png" group-title="MYIPTV რუსული",Восток ТВ
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="MYIPTV რუსული",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="MYIPTV რუსული",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="MYIPTV რუსული",Шансон ТВ
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="MYIPTV რუსული",.black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="MYIPTV რუსული",.red
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+#EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="MYIPTV რუსული",.sci-fi
+http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:-1 tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png" group-title="MYIPTV რუსული",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="MYIPTV რუსული",Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="MYIPTV რუსული",Amedia 2
+https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="MYIPTV რუსული",Amedia Hit
+https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="MYIPTV რუსული",Bollywood HD
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="MYIPTV რუსული",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="https://iptvx.one/picons/comedy-central-pl.png" group-title="MYIPTV რუსული",Comedy Central
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc006/comedycentralhdraw/comedycentralhdraw.m3u8
+#EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="MYIPTV რუსული",FlixSnip
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="MYIPTV რუსული",Fx
+http://185.164.82.18:9010/ykMHqK_Fox
+#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="MYIPTV რუსული",Fx Life
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="MYIPTV რუსული",HollywooD
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="MYIPTV რუსული",HollywooD HD
+http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
+#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://iptvx.one/picons/hustler-tv.png" group-title="MYIPTV რუსული",Horror TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="MYIPTV რუსული",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png" group-title="MYIPTV რუსული",Start World
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="MYIPTV რუსული",Trash HD
+http://5.188.159.128:8070/Trash_HD/index.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="MYIPTV რუსული",Viju TV1000
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="MYIPTV რუსული",Viju TV1000 Action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="MYIPTV რუსული",Viju+ comedy
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="MYIPTV რუსული",Viju+ megahit
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="MYIPTV რუსული",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="MYIPTV რუსული",Иллюзион+
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1 tvg-id="kineko" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="MYIPTV რუსული",Кинеко
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="MYIPTV რუსული",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="MYIPTV რუსული",Киноман
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="MYIPTV რუსული",Любимое Кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="MYIPTV რუსული",НСТ
+http://193.25.8.59:8000/nst
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="MYIPTV რუსული",Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="MYIPTV რუსული",Сапфир
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="MYIPTV რუსული",Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="MYIPTV რუსული",Start Air
+http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="MYIPTV რუსული",Viju TV1000 русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="MYIPTV რუსული",Дом Кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="MYIPTV რუსული",Кино 1 Int.
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 tvg-id="kinosezon" tvg-logo="https://iptvx.one/picons/kinosezon.png" group-title="MYIPTV რუსული",КиноСезон
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="MYIPTV რუსული",Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="MYIPTV რუსული",Мир Сериала
+http://31.148.48.15:80/Mir_Seriala/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="MYIPTV რუსული",Мосфильм. Золотая коллекция
+http://185.164.82.18:9010/ykMHqK_Fox
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="MYIPTV რუსული",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="MYIPTV რუსული",НТВ Хит
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png" group-title="MYIPTV რუსული",Патриот
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="MYIPTV რუსული",Победа
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="MYIPTV რუსული",Русский Иллюзион
+http://158.101.222.193:88/georgia_play.php?id=rusilluzion
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="MYIPTV რუსული",Русский роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="MYIPTV რუსული",Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="MYIPTV რუსული",Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="MYIPTV რუსული",Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="MYIPTV რუსული",LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="MYIPTV რუსული",Pro100
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="MYIPTV რუსული",Retrovision
+https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="MYIPTV რუსული",Retrovision Classic
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="MYIPTV რუსული",Retrovision Motor
+http://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="MYIPTV რუსული",Retrovision Movies
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="MYIPTV რუსული",Retrovision Кинопанорама
+https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.hhcdn.ru/employer-logo/446267.png" group-title="MYIPTV რუსული",Star Media
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoazia" tvg-logo="https://iptvx.one/picons/cityedem-kinoazia.png" group-title="MYIPTV რუსული",Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoklas" tvg-logo="https://iptvx.one/picons/cityedem-kinoklas.png" group-title="MYIPTV რუსული",Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinomist" tvg-logo="https://iptvx.one/picons/cityedem-kinomist.png" group-title="MYIPTV რუსული",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoact" tvg-logo="https://iptvx.one/picons/cityedem-kinoact.png" group-title="MYIPTV რუსული",Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="MYIPTV რუსული",Смотрим (Кино и сериалы)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-title="MYIPTV რუსული",Da Vinci
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc109/davincihdraw/davincihdraw.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="MYIPTV რუსული",Discovery HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="MYIPTV რუსული",Galaxy
+https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
+#EXTINF:-1 tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png" group-title="MYIPTV რუსული",History
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc004/historyhdraw/historyhdraw.m3u8
+#EXTINF:-1 tvg-id="insight-tv-hd" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png" group-title="MYIPTV რუსული",Insight TV HD
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://iptvx.one/picons/luxury-hd.png" group-title="MYIPTV რუსული",Luxury HD
+http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="MYIPTV რუსული",Nat Geo Wild
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="MYIPTV რუსული",National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://iptvx.one/picons/ocean-tv.png" group-title="MYIPTV რუსული",Ocean TV
+http://86.57.209.210/Ocean/index.m3u8
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="MYIPTV რუსული",RTG HD
+https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://iptvx.one/picons/terra-ru.png" group-title="MYIPTV რუსული",TERRA
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="MYIPTV რუსული",RTД HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="MYIPTV რუსული",Viju EXPLORE
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 tvg-id="ugra-travel" tvg-logo="https://iptvx.one/picons/ugra-travel.png" group-title="MYIPTV რუსული",Ugra Travel
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-title="MYIPTV რუსული",Арсенал
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="MYIPTV რუსული",В мире животных
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="MYIPTV რუსული",История
+http://31.210.208.171:8080/istoriya/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://iptvx.one/picons/lapki-live.png" group-title="MYIPTV რუსული",Лапки Live
+http://45.145.32.13:20440/unikum/index.m3u8?token=test
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="MYIPTV რუსული",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="MYIPTV რუსული",Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-planeta" tvg-logo="https://iptvx.one/picons/neizvestnaya-planeta.png" group-title="MYIPTV რუსული",Неизвестная Планета
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="MYIPTV რუსული",Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="MYIPTV რუსული",Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="MYIPTV რუსული",Первый космический
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="MYIPTV რუსული",Поехали!
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+#EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="https://iptvx.one/picons/rzhd-tv.png" group-title="MYIPTV რუსული",РЖД HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-title="MYIPTV რუსული",Телепутешествия
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://iptvx.one/picons/smotrim-100-fakty.png" group-title="MYIPTV რუსული",Смотрим 100% Факты
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+#EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="MYIPTV რუსული",Техно 24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="MYIPTV რუსული",АВТО 24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="MYIPTV რუსული",Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="MYIPTV რუსული",Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="MYIPTV რუსული",Домашние Животные
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="MYIPTV რუსული",Драйв
+http://193.25.8.59:8000/drive
+#EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="MYIPTV რუსული",Еда
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="MYIPTV რუსული",Загородная Жизнь
+http://185.57.68.33/40/index.m3u8
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-title="MYIPTV რუსული",Загородный
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="MYIPTV რუსული",Загородный Int. HD
+http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="MYIPTV რუსული",Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="MYIPTV რუსული",НТВ Стиль
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="MYIPTV რუსული",Наша Тема
+http://31.210.208.171:8080/nasha_tema/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="oruzhie" tvg-logo="https://iptvx.one/picons/oruzhie.png" group-title="MYIPTV რუსული",Оружие
+http://158.101.222.193:88/georgia_play.php?id=oruzhie
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="MYIPTV რუსული",Охота и рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="MYIPTV რუსული",Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov-hd.png" group-title="MYIPTV რუსული",Охотник и рыболов HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-logo="https://iptvx.one/picons/pervy-vegetariansky.png" group-title="MYIPTV რუსული",Первый вегетарианский
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="MYIPTV რუსული",Тонус
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="MYIPTV რუსული",Точка Отрыва
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="MYIPTV რუსული",360° Новости HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="MYIPTV რუსული",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="6tv" tvg-logo="https://iptvx.one/picons/6tv.png" group-title="MYIPTV რუსული",6 ТВ
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" tvg-logo="https://iptvx.one/picons/8kanal-krasnoyarsk.png" group-title="MYIPTV რუსული",8 канал (Красноярский край)
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-novosibirsk" tvg-logo="https://iptvx.one/picons/8kanal-novosibirsk.png" group-title="MYIPTV რუსული",8 канал (Новосибирск)
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="8vladik" tvg-logo="https://iptvx.one/picons/8vladik.png" group-title="MYIPTV რუსული",8 канал (Владивосток)
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://iptvx.one/picons/12-omsk.png" group-title="MYIPTV რუსული",12 Канал (Омск)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="31-kanal-chelyabinsk" tvg-logo="https://iptvx.one/picons/31-kanal-chelyabinsk.png" group-title="MYIPTV რუსული",31 канал (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="86-surgut" tvg-logo="https://iptvx.one/picons/86-surgut.png" group-title="MYIPTV რუსული",86 Сургут
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 tvg-id="abakan24" tvg-logo="https://iptvx.one/picons/abakan24.png" group-title="MYIPTV რუსული",Абакан 24
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=lbRb3zr0EFJczX70hVvgfw&e=2070623508&scheme=https
+#EXTINF:-1 tvg-id="aist" tvg-logo="https://iptvx.one/picons/aist.png" group-title="MYIPTV რუსული",Аист
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTINF:-1 tvg-id="almazny-kray" tvg-logo="https://iptvx.one/picons/almazny-kray.png" group-title="MYIPTV რუსული",Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 tvg-id="aris24" tvg-logo="https://iptvx.one/picons/aris24.png" group-title="MYIPTV რუსული",Арис 24 (Башкортостан)
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-id="arktika-24" tvg-logo="https://iptvx.one/picons/arktika-24.png" group-title="MYIPTV რუსული",Арктика 24 (Архангельск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+#EXTINF:-1 tvg-id="arxyz24" tvg-logo="https://iptvx.one/picons/arxyz24.png" group-title="MYIPTV რუსული",Архыз 24 (Карачаево-Черкесия)
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://iptvx.one/picons/astraxan24.png" group-title="MYIPTV რუსული",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="atv-media" tvg-logo="https://iptvx.one/picons/atv-media.png" group-title="MYIPTV რუსული",АТВ-Медиа
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTINF:-1 tvg-id="bars" tvg-logo="https://iptvx.one/picons/bars.png" group-title="MYIPTV რუსული",Барс
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=ZrXipYUZHniVrAVSwMJWhQ&e=2070623501&scheme=https
+#EXTINF:-1 tvg-id="bashkortostan24" tvg-logo="https://iptvx.one/picons/bashkortostan24.png" group-title="MYIPTV რუსული",Башкортостан 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 tvg-id="belarus4-gomel" tvg-logo="https://iptvx.one/picons/belarus4-gomel.png" group-title="MYIPTV რუსული",Беларусь 4 Гомель
+http://46.56.85.151:8080/0.m3u8
+#EXTINF:-1 tvg-id="belgorod24" tvg-logo="https://iptvx.one/picons/belgorod24.png" group-title="MYIPTV რუსული",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="MYIPTV რუსული",Брянская губерния HD
+https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
+#EXTINF:-1 tvg-id="bst" tvg-logo="https://iptvx.one/picons/bst.png" group-title="MYIPTV რუსული",БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="bst-bratsk" tvg-logo="https://iptvx.one/picons/bst-bratsk.png" group-title="MYIPTV რუსული",БСТ Братск
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
+#EXTINF:-1 tvg-id="vektor-24" tvg-logo="https://iptvx.one/picons/vektor-24.png" group-title="MYIPTV რუსული",Вектор 24 HD
+http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
+#EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="MYIPTV რუსული",Ветта 24 (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="volga" tvg-logo="https://iptvx.one/picons/volga.png" group-title="MYIPTV რუსული",Волга
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="MYIPTV რუსული",Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
+#EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="MYIPTV რუსული",Восток 24
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="vsia-ufa" tvg-logo="https://iptvx.one/picons/vsia-ufa.png" group-title="MYIPTV რუსული",Вся Уфа
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eKlI_aa8PX3A-krCbqLsRA&e=2070623504&scheme=https
+#EXTINF:-1 tvg-id="gln24" tvg-logo="https://iptvx.one/picons/gln24.png" group-title="MYIPTV რუსული",GLN 24 (Геленджик)
+http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="gorod24" tvg-logo="https://iptvx.one/picons/gorod24.png" group-title="MYIPTV რუსული",Город 24
+http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
+#EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="MYIPTV რუსული",Городской Телеканал-Ярославль
+https://gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-id="grozny" tvg-logo="https://iptvx.one/picons/grozny.png" group-title="MYIPTV რუსული",Грозный
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 tvg-id="gubernia-33" tvg-logo="https://iptvx.one/picons/gubernia-33.png" group-title="MYIPTV რუსული",Губерния 33
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+#EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="MYIPTV რუსული",Губерния (Самара)
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="dzenzhinsk-tv" tvg-logo="https://iptvx.one/picons/dzenzhinsk-tv.png" group-title="MYIPTV რუსული",Дзержинск ТВ
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:-1 tvg-id="doverie" tvg-logo="http://only4.tv/ch/417.png" group-title="MYIPTV რუსული",Доверие (Москва)
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-id="don-24" tvg-logo="https://iptvx.one/picons/don-24.png" group-title="MYIPTV რუსული",Дон 24 (Ростов-на-Дону)
+https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-id="evrasia" tvg-logo="https://iptvx.one/picons/evrasia.png" group-title="MYIPTV რუსული",Евразия (Орск)
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-id="ewpatorya24" tvg-logo="https://iptvx.one/picons/ewpatorya24.png" group-title="MYIPTV რუსული",Евпатория 24
+http://195.26.83.96:7029/play/a009
+#EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://iptvx.one/picons/enisey-region.png" group-title="MYIPTV რუსული",Енисей HD (Красноярск)
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="MYIPTV რუსული",Запад 24 (Калининград)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 tvg-id="ivanovo-ot" tvg-logo="https://iptvx.one/picons/ivanovo-ot.png" group-title="MYIPTV რუსული",Ивановское общественное телевидение
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+#EXTINF:-1 tvg-id="impuls-sewera" tvg-logo="https://iptvx.one/picons/impuls-sewera.png" group-title="MYIPTV რუსული",Импульс Севера
+https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=na5lRe1FycA0nFHRZrfcsg&e=2070623514&scheme=https
+#EXTINF:-1 tvg-id="kavkaz24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="MYIPTV რუსული",Кавказ 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="MYIPTV რუსული",Камчатка 1
+http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
+#EXTINF:-1 tvg-id="kaskad24" tvg-logo="https://iptvx.one/picons/kaskad24.png" group-title="MYIPTV რუსული",Каскад 24
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+#EXTINF:-1 tvg-id="katun-24" tvg-logo="https://iptvx.one/picons/katun-24.png" group-title="MYIPTV რუსული",Катунь 24
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+#EXTINF:-1 tvg-id="krym24" tvg-logo="https://iptvx.one/picons/krym24.png" group-title="MYIPTV რუსული",Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 tvg-id="ktv-luch" tvg-logo="https://iptvx.one/picons/ktv-luch.png" group-title="MYIPTV რუსული",КТВ-Луч (Сызрань)
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
+#EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="MYIPTV რუსული",Кубань 24 (Краснодар)
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-id="lot-47" tvg-logo="https://iptvx.one/picons/lot-47.png" group-title="MYIPTV რუსული",Лен ТВ 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 tvg-id="lipeck24" tvg-logo="https://iptvx.one/picons/lipeck24.png" group-title="MYIPTV რუსული",Липецк 24
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=PxMZcpt76COiPH4EwWL3hw&e=2070623508&scheme=https
+#EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-logo="https://iptvx.one/picons/lipeckoe-vremia.png" group-title="MYIPTV რუსული",Липецкое время
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="MYIPTV რუსული",Луганск 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1 tvg-id="mir-belogoria" tvg-logo="https://iptvx.one/picons/mir-belogoria.png" group-title="MYIPTV რუსული",Мир Белогорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="mordovia-24" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="MYIPTV რუსული",Мордовия 24 HD (Саранск)
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="MYIPTV რუსული",Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 tvg-id="muromtv" tvg-logo="https://iptvx.one/picons/muromtv.png" group-title="MYIPTV რუსული",Муром ТВ
+http://62.76.73.38/hls/stream.m3u8
+#EXTINF:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="MYIPTV რუსული",НВК Саха HD
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-id="nash-dom" tvg-logo="https://iptvx.one/picons/nash-dom.png" group-title="MYIPTV რუსული",Наш дом
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 tvg-id="nashi-goroda" tvg-logo="https://iptvx.one/picons/nashi-goroda.png" group-title="MYIPTV რუსული",Наши Города (Когалым)
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+#EXTINF:-1 tvg-id="next-tv" tvg-logo="https://iptvx.one/picons/next-tv.png" group-title="MYIPTV რუსული",NEXT-TV
+http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+#EXTINF:-1 tvg-id="nika-tv" tvg-logo="https://iptvx.one/picons/nika-tv.png" group-title="MYIPTV რუსული",Ника ТВ
+http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+#EXTINF:-1 tvg-id="nn-24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="MYIPTV რუსული",Нижний Новгород 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 tvg-id="novgorodskoe-obl-tv" tvg-logo="https://iptvx.one/picons/novgorodskoe-obl-tv.png" group-title="MYIPTV რუსული",Новгородское Областное телевидение
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="MYIPTV რუსული",Новый Век HD (Тамбов)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 tvg-id="ntm" tvg-logo="https://iptvx.one/picons/ntm.png" group-title="MYIPTV რუსული",НТМ
+http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 tvg-id="ntrk-ingushetia" tvg-logo="https://iptvx.one/picons/ntrk-ingushetia.png" group-title="MYIPTV რუსული",НТРК Ингушетия
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1 tvg-id="nts-irbit" tvg-logo="https://iptvx.one/picons/nts-irbit.png" group-title="MYIPTV რუსული",НТС (Ирбит)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+#EXTINF:-1 tvg-id="nts-irkutsk" tvg-logo="https://iptvx.one/picons/nts-irkutsk.png" group-title="MYIPTV რუსული",НТС (Иркутск)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:-1 tvg-id="nts-sevastopol" tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" group-title="MYIPTV რუსული",НТС (Севастополь)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="omsk-tv" tvg-logo="https://iptvx.one/picons/omsk-tv.png" group-title="MYIPTV რუსული",Омск ТВ
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9LljursQaAxFdR0mnennUQ&e=2070623518&scheme=https
+#EXTINF:-1 tvg-id="osetia-iryston" tvg-logo="https://iptvx.one/picons/osetia-iryston.png" group-title="MYIPTV რუსული",Осетия-Ирыстон
+http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ort-planeta-orenburg" tvg-logo="https://iptvx.one/picons/ort-planeta-orenburg.png" group-title="MYIPTV რუსული",ОРТ-Планета (Оренбург)
+http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+#EXTINF:-1 tvg-id="otv-chelyabinsk" tvg-logo="https://iptvx.one/picons/otv-chelyabinsk.png" group-title="MYIPTV რუსული",ОТВ (Челябинск)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="MYIPTV რუსული",ОТВ (Екатеринбург)
+https://vd.obltv.ru/watch/air_hd.m3u8
+#EXTINF:-1 tvg-id="otv-primorie" tvg-logo="https://iptvx.one/picons/otv-primorie.png" group-title="MYIPTV რუსული",ОТВ (Приморье)
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="otv-saxalin" tvg-logo="https://iptvx.one/picons/otv-saxalin.png" group-title="MYIPTV რუსული",ОТВ (Сахалин)
+http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+#EXTINF:-1 tvg-id="ots" tvg-logo="https://iptvx.one/picons/ots.png" group-title="MYIPTV რუსული",ОТС
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-id="pervouralsk-tv" tvg-logo="https://iptvx.one/picons/pervouralsk-tv.png" group-title="MYIPTV რუსული",Первоуральск ТВ
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https
+#EXTINF:-1 tvg-id="pervy-gorodskoy-kirov" tvg-logo="https://iptvx.one/picons/pervy-gorodskoy-kirov.png" group-title="MYIPTV რუსული",Первый городской (Киров)
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-krymsky" tvg-logo="https://iptvx.one/picons/pervy-krymsky.png" group-title="MYIPTV რუსული",Первый крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="pervy-oblastnoy-orel" tvg-logo="https://iptvx.one/picons/pervy-oblastnoy-orel.png" group-title="MYIPTV რუსული",Первый областной (Орел)
+http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pskovsky" tvg-logo="https://iptvx.one/picons/pervy-pskovsky.png" group-title="MYIPTV რუსული",Первый Псковский
+http://live-3.otcnet.ru/pskov/index.m3u8
+#EXTINF:-1 tvg-id="pervy-rostovsky" tvg-logo="https://iptvx.one/picons/pervy-rostovsky.png" group-title="MYIPTV რუსული",Первый Ростовский
+https://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="pervy-tulsky" tvg-logo="https://iptvx.one/picons/pervy-tulsky.png" group-title="MYIPTV რუსული",Первый Тульский
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-logo="https://iptvx.one/picons/pervy-yaroslavsky.png" group-title="MYIPTV რუსული",Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:-1 tvg-id="prima" tvg-logo="https://iptvx.one/picons/prima.png" group-title="MYIPTV რუსული",Прима HD (Красноярск)
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="pro-zhizn" tvg-logo="https://iptvx.one/picons/pro-zhizn.png" group-title="MYIPTV რუსული",Про жизнь
+https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rgvk-dagestan" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" group-title="MYIPTV რუსული",РГВК Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png" group-title="MYIPTV რუსული",РТВ HD (Раменск)
+https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:-1 tvg-id="zabajkajkalje" tvg-logo="https://iptvx.one/picons/zabajkajkalje.png" group-title="MYIPTV რუსული",РТК Забайкалье
+http://stream.zrtk.ru/zrtk.m3u8
+#EXTINF:-1 tvg-id="rts-abakan" tvg-logo="https://iptvx.one/picons/rts-abakan.png" group-title="MYIPTV რუსული",РТС - Абакан
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+#EXTINF:-1 tvg-id="region29" tvg-logo="https://iptvx.one/picons/region29.png" group-title="MYIPTV რუსული",Регион 29
+http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:-1 tvg-id="region67" tvg-logo="https://iptvx.one/picons/region67.png" group-title="MYIPTV რუსული",Регион 67
+http://212.3.155.126:8181/udp/233.67.67.177:5510
+#EXTINF:-1 tvg-id="rifey-tv" tvg-logo="https://iptvx.one/picons/rifey-tv.png" group-title="MYIPTV რუსული",Рифей-ТВ
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=7e16kFowncLriG9eElNY7g&e=2070623512&scheme=https
+#EXTINF:-1 tvg-id="rybinsk40" tvg-logo="https://iptvx.one/picons/rybinsk40.png" group-title="MYIPTV რუსული",Рыбинск-40
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:-1 tvg-id="salam" tvg-logo="https://iptvx.one/picons/salam.png" group-title="MYIPTV რუსული",Салям (Уфа)
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="samara24" tvg-logo="https://iptvx.one/picons/samara24.png" group-title="MYIPTV რუსული",Самара 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-id="samotlor-nv" tvg-logo="https://iptvx.one/picons/samotlor-nv.png" group-title="MYIPTV რუსული",Самотлор (Нижневартовск)
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
+#EXTINF:-1 tvg-id="sampo-tv" tvg-logo="https://iptvx.one/picons/sampo-tv.png" group-title="MYIPTV რუსული",Сампо ТВ
+http://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
+#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="MYIPTV რუსული",Санкт-Петербург
+https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
+#EXTINF:-1 tvg-id="saratov-24" tvg-logo="https://iptvx.one/picons/saratov-24.png" group-title="MYIPTV რუსული",Саратов 24
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+#EXTINF:-1 tvg-id="sarov-24" tvg-logo="https://iptvx.one/picons/sarov-24.png" group-title="MYIPTV რუსული",Саров 24 HD
+http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="MYIPTV რუსული",Своё ТВ HD (Ставрополь)
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1 tvg-id="sibir24" tvg-logo="https://iptvx.one/picons/sibir24.png" group-title="MYIPTV რუსული",Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="simfer24" tvg-logo="https://iptvx.one/picons/simfer24.png" group-title="MYIPTV რუსული",Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="MYIPTV რუსული",Сочи 24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv21plus" tvg-logo="https://iptvx.one/picons/tv21plus.png" group-title="MYIPTV რუსული",ТВ-21+
+#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
+http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+#EXTINF:-1 tvg-id="tv7-abakan" tvg-logo="https://iptvx.one/picons/tv7-abakan.png" group-title="MYIPTV რუსული",ТВ-7 Абакан
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 tvg-id="tvk-krasnoyarsk" tvg-logo="https://iptvx.one/picons/tvk-krasnoyarsk.png" group-title="MYIPTV რუსული",ТВК Красноярск
+https://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 tvg-id="tatarstan24" tvg-logo="https://iptvx.one/picons/tatarstan24.png" group-title="MYIPTV რუსული",Татарстан 24
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:-1 tvg-id="tverskoy-prospekt" tvg-logo="https://iptvx.one/picons/tverskoy-prospekt.png" group-title="MYIPTV რუსული",Тверской проспект
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1 tvg-id="tdk-42" tvg-logo="https://iptvx.one/picons/tdk-42.png" group-title="MYIPTV რუსული",ТДК 42
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="telemiks" tvg-logo="https://iptvx.one/picons/telemiks.png" group-title="MYIPTV რუსული",Телемикс
+http://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
+#EXTINF:-1 tvg-id="tivikom" tvg-logo="https://iptvx.one/picons/tivikom.png" group-title="MYIPTV რუსული",Тивиком
+https://stream.trafjam.ru/tvcom/studio/tracks-v1a1/rewind-43200.m3u8
+#EXTINF:-1 tvg-id="tk-variant" tvg-logo="https://iptvx.one/picons/tk-variant.png" group-title="MYIPTV რუსული",ТК Вариант
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
+#EXTINF:-1 tvg-id="tolyatti24" tvg-logo="https://iptvx.one/picons/tolyatti24.png" group-title="MYIPTV რუსული",Тольятти 24
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1 tvg-id="tomskoe-vremia" tvg-logo="https://iptvx.one/picons/tomskoe-vremia.png" group-title="MYIPTV რუსული",Томское время
+https://old.tomsk-time.ru/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="tst-cheremchovo" tvg-logo="https://iptvx.one/picons/tst-cheremchovo.png" group-title="MYIPTV რუსული",ТСТ (Черемхово)
+http://5.183.155.8:88/stream.m3u8
+#EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-logo="https://iptvx.one/picons/tumenskoe-vremia.png" group-title="MYIPTV რუსული",Тюменское время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tvoya-tumen" tvg-logo="https://iptvx.one/picons/tvoya-tumen.png" group-title="MYIPTV რუსული",TVоя Тюмень
+http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
+#EXTINF:-1 tvg-id="udmurtia" tvg-logo="https://iptvx.one/picons/udmurtia.png" group-title="MYIPTV რუსული",Удмуртия
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+#EXTINF:-1 tvg-id="ulianovskaya-pravda" tvg-logo="https://iptvx.one/picons/ulianovskaya-pravda.png" group-title="MYIPTV რუსული",Ульяновская правда
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
+#EXTINF:-1 tvg-id="ural1" tvg-logo="https://iptvx.one/picons/ural1.png" group-title="MYIPTV რუსული",Урал 1
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
+#EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="MYIPTV რუსული",Урал 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 tvg-id="uchaly-tv" tvg-logo="https://iptvx.one/picons/uchaly-tv.png" group-title="MYIPTV რუსული",Учалы ТВ
+http://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
+#EXTINF:-1 tvg-id="chavash-en" tvg-logo="https://iptvx.one/picons/chavash-en.png" group-title="MYIPTV რუსული",Чаваш ЕН
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+#EXTINF:-1 tvg-id="utv-cheboxary" tvg-logo="https://iptvx.one/picons/utv-cheboxary.png" group-title="MYIPTV რუსული",ЮТВ Чебоксары
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+#EXTINF:-1 tvg-id="yakutia24" tvg-logo="https://iptvx.one/picons/yakutia24.png" group-title="MYIPTV რუსული",Якутия 24
+http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+#EXTINF:-1 tvg-id="yugra" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="MYIPTV რუსული",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="yurgan" tvg-logo="https://iptvx.one/picons/yurgan.png" group-title="MYIPTV რუსული",Юрган
+http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:-1 tvg-id="efir24-relax" tvg-logo="https://iptvx.one/picons/efir24-relax.png" group-title="MYIPTV რუსული",Эфир
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 tvg-id="echotv24" tvg-logo="https://iptvx.one/picons/echotv24.png" group-title="MYIPTV რუსული",Эхо ТВ 24
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 tvg-id="yamal-region" tvg-logo="https://iptvx.one/picons/yamal-region.png" group-title="MYIPTV რუსული",Ямал-Регион
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTINF:-1 tvg-id="sochi-live" tvg-logo="https://iptvx.one/picons/sochi-live.png" group-title="MYIPTV რუსული",Sochi Live
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group-title="MYIPTV რუსული",Наша Сибирь
+https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/ib/K6mz212.png" group-title="MYIPTV სპორტი",GE: Setanta Sports 1 Georgia HD
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-logo="https://img.ge/ib/qwRNO12.png" group-title="MYIPTV სპორტი",GE: Setanta Sports 2 Georgia HD
+http://178.134.1.158:8081/setanta2/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/ib/G4JYv12.png" group-title="MYIPTV სპორტი",GE: Setanta Sports 3 Georgia HD
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 tvg-logo="https://afcdonscast.co.uk/wp-content/uploads/2022/07/sky-sports-main-event-1.webp" group-title="MYIPTV სპორტი",Sky sports main event uk
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" group-title="MYIPTV სპორტი",ZiggoSport
+https://7pal.short.gy/ZiggoSport
+#EXTINF:-1 tvg-logo="https://afcdonscast.co.uk/wp-content/uploads/2022/07/sky-sports-main-event-1.webp" group-title="MYIPTV სპორტი",Sky Sports Main Event 4K
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-logo="https://img.ge/i/MUfwL45.png" group-title="MYIPTV სპორტი",GE: Silk Sport 1 HD
+http://tinyurl.com/3zje87av/silksport1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/cx6yP45.png" group-title="MYIPTV სპორტი",GE: Silk Sport 2 HD
+http://tinyurl.com/3zje87av/silksport2/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/mPUQG45.png" group-title="MYIPTV სპორტი",GE: Silk Sport 3 HD
+http://tinyurl.com/3zje87av/silksport3/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="SilkUniversal.ge" tvg-logo="https://img.ge/i/NzANv45.png" tvg-name="Silk Universal" timeshift="3" group-title="MYIPTV სპორტი",GE: Silk Universal HD
+http://158.101.222.193:88/georgia_play.php?id=silk_sport4
+#EXTINF:-1 tvg-id="2TV.ge" tvg-logo="https://img.ge/i/Wxk9C69.jpg" tvg-name="1 Arkhi sport" timeshift="7" group-title="MYIPTV სპორტი",GE: 1 Arkhi Sport HD
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2046.png" group-title="MYIPTV სპორტი",GE: O2
+http://tinyurl.com/3zje87av/o2/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1614.png" group-title="MYIPTV სპორტი",GE: Regbi TV
+http://tinyurl.com/3zje87av/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1757805380706.png" group-title="MYIPTV სპორტი",GE: GMS TV
+https://nexytv.net/st_gms_9097/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://unitedfightalliance.com/wp-content/uploads/2024/01/29_-_Printable_Resolution_File-removebg-preview-1024x504.png" group-title="MYIPTV სპორტი",UFA United Fight Alliance
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/cee99d2e-7187-44d4-8578-8da2701465df/0.m3u8
+#EXTINF:-1 tvg-logo="https://preview.redd.it/i-am-convinced-this-rebranding-in-2011-was-one-of-the-worst-v0-zxepw0qiu8hd1.jpeg?width=1080&crop=smart&auto=webp&s=02194b43059864b9a0834460c927bdb31fca0008" group-title="MYIPTV სპორტი",IMPACT WRESTLING
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/0308d45a-08b5-4322-9ee4-d29ebec8e134/5.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/3553.png" group-title="MYIPTV სპორტი",Premier Sport 1
+https://7pal.short.gy/prsport1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5iax42.png" group-title="MYIPTV სპორტი",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/64.png" group-title="MYIPTV სპორტი",Viju+ Sport
+http://tinyurl.com/Argaavrcelo/viasatsport/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Aehhv29.png" group-title="MYIPTV სპორტი",Спартивни 2
+http://tinyurl.com/Argaavrcelo/sportivni2/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/609.png" group-title="MYIPTV სპორტი",Матч!
+http://tinyurl.com/Argaavrcelo/matchtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_2.png" group-title="MYIPTV სპორტი",one play sport 2
+http://213.192.12.185:8082/play/Oneplay%20Sport%202.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVf9vLr8-kR02p4rhQRsI7OMzQkX8dCMRbMaZ5XXxGUq4uzaLNlKFtMbKx&s=10" group-title="MYIPTV სპორტი",nova sport 1
+http://213.192.12.185:8082/play/Nova%20Sport%201%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZLpVERk2gZLzh7RPJrP3ap1vYJHQm6p9K2pfpNAuiVjRLp3JFMPpmMM&s=10" group-title="MYIPTV სპორტი",nova sport 2
+http://213.192.12.185:8082/play/Nova%20Sport%202%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230704071741" group-title="MYIPTV სპორტი",TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/1/1540-1690027877.webp" group-title="MYIPTV სპორტი",TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/eb/Turkmenistan_sport.png/revision/latest?cb=20201026070318&path-prefix=ru" group-title="MYIPTV სპორტი",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://getdrawings.com/free-icon/red-bull-icon-63.png" group-title="MYIPTV სპორტი",Red bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/473.png" group-title="MYIPTV სპორტი",BY: Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="MYIPTV სპორტი",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="MYIPTV სპორტი",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="MYIPTV სპორტი",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="MYIPTV სპორტი",beIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="MYIPTV სპორტი",UFC Unfiltered
+https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/697.png" group-title="MYIPTV სპორტი",Матч! Футбол 3 HD
+http://185.57.68.33:8091/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/2560px-SEC_Network_logo.svg.png" group-title="MYIPTV სპორტი",SEC NETWORK
+https://fl7.moveonjoy.com/SEC_NETWORK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/95/a9/56/95a9566ee370963400a80d1e069e0f2a.jpg" group-title="MYIPTV სპორტი",FOX SPORTS
+https://fl7.moveonjoy.com/FOX_Sports_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Aehhv29.png" group-title="MYIPTV კინო",Retrovision Movies
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/17.png" group-title="MYIPTV კინო",Viju TV 1000 HD
+http://tinyurl.com/Argaavrcelo/tv1000/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/18.png" group-title="MYIPTV კინო",Viju TV 1000 Action HD
+http://tinyurl.com/Argaavrcelo/tv1000action/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/469.png" group-title="MYIPTV კინო",TV XXI Век
+http://tinyurl.com/Argaavrcelo/TVXXI/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/117.png" group-title="MYIPTV კინო",НСТ
+http://tinyurl.com/Argaavrcelo/nst/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.uzdtv.uz/images/channel_1687320823.png" group-title="MYIPTV კინო",Cinema
+http://tinyurl.com/Argaavrcelo/cinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/336.png" group-title="MYIPTV კინო",Мосфильм
+http://tinyurl.com/Argaavrcelo/mosfilm/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/701.png" group-title="MYIPTV კინო",Viju+ Serial HD
+http://tinyurl.com/Argaavrcelo/vipserial/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/58.png" group-title="MYIPTV კინო",Viju+ Comedy HD
+http://tinyurl.com/Argaavrcelo/vipcomedy/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/59.png" group-title="MYIPTV კინო",Viju+ Megahit HD
+http://tinyurl.com/Argaavrcelo/vipmegahit/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/38.png" group-title="MYIPTV კინო",Comedy Central
+http://tinyurl.com/Argaavrcelo/comedycentral/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/60.png" group-title="MYIPTV კინო",Viju+ Premiere HD
+http://tinyurl.com/Argaavrcelo/vippremiera/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/114.png" group-title="MYIPTV კინო",Иллюзион+ HD
+http://tinyurl.com/Argaavrcelo/iluzion/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/461.png" group-title="MYIPTV კინო",Индийское кино
+http://tinyurl.com/Argaavrcelo/indiskoekino/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/2079.png" group-title="MYIPTV კინო",Кинеко HD
+http://tinyurl.com/Argaavrcelo/kineko/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.ge/i/Aehhv29.png" group-title="MYIPTV კინო",Kino 24
+http://tinyurl.com/Argaavrcelo/kino24/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/568.png" group-title="MYIPTV კინო",НТВ Хит HD
+http://tinyurl.com/Argaavrcelo/ntvhit/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/70.png" group-title="MYIPTV კინო",Red HD
+http://tinyurl.com/Argaavrcelo/red/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/13.png" group-title="MYIPTV კინო",Viju TV 1000 Русское HD
+http://tinyurl.com/Argaavrcelo/tv1000ruski/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/712.png" group-title="MYIPTV კინო",Shot
+http://tinyurl.com/Argaavrcelo/shottv/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/112.png" group-title="MYIPTV კინო",Мужское кино HD
+http://tinyurl.com/Argaavrcelo/mujkoe/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/769.png" group-title="MYIPTV კინო",BCU Action HD
+http://88.99.165.164:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/770.png" group-title="MYIPTV კინო",BCU Catastrophe HD
+http://88.99.165.164:6878/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/771.png" group-title="MYIPTV კინო",BCU Cinema HD
+http://88.99.165.164:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/834.png" group-title="MYIPTV კინო",BCU Cinema+ HD
+http://88.99.165.164:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1000.png" group-title="MYIPTV კინო",BCU Comedy HD
+http://88.99.165.164:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1026.png" group-title="MYIPTV კინო",BCU Cosmo HD
+http://88.99.165.164:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/827.png" group-title="MYIPTV კინო",BCU Criminal HD
+http://88.99.165.164:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/773.png" group-title="MYIPTV კინო",BCU Fantastic HD
+http://88.99.165.164:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/774.png" group-title="MYIPTV კინო",BCU Filmystic HD
+http://88.99.165.164:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/775.png" group-title="MYIPTV კინო",BCU History HD
+http://88.99.165.164:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1428.png" group-title="MYIPTV კინო",BCU Kids 4K
+http://88.99.165.164:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/786.png" group-title="MYIPTV კინო",BCU Kids HD
+http://88.99.165.164:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/559.png" group-title="MYIPTV კინო",BCU Kids+ HD
+http://88.99.165.164:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/776.png" group-title="MYIPTV კინო",BCU Kinorating HD
+http://88.99.165.164:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/311.png" group-title="MYIPTV კინო",BCU Marvel HD
+http://88.99.165.164:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/778.png" group-title="MYIPTV კინო",BCU Premiere HD
+http://88.99.165.164:6878/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/553.png" group-title="MYIPTV კინო",BCU Premiere Ultra 4K
+http://88.99.165.164:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/785.png" group-title="MYIPTV კინო",BCU Reality HD
+http://88.99.165.164:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/779.png" group-title="MYIPTV კინო",BCU Romantic HD
+http://88.99.165.164:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/835.png" group-title="MYIPTV კინო",BCU Stars HD
+http://88.99.165.164:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-survival.png" group-title="MYIPTV კინო",BCU Survival HD
+http://88.99.165.164:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-trumotion.png" group-title="MYIPTV კინო",BCU TruMotion HD
+http://88.99.165.164:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/849.png" group-title="MYIPTV კინო",BCU Ultra 4K
+http://88.99.165.164:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/781.png" group-title="MYIPTV კინო",BCU VHS HD
+http://88.99.165.164:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-1.png" group-title="MYIPTV კინო",BCU Кинозал Premiere 1 HD
+http://88.99.165.164:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-1.png" group-title="MYIPTV კინო",BCU Кинозал Premiere 2 HD
+http://88.99.165.164:6878/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-1.png" group-title="MYIPTV კინო",BCU Кинозал Premiere 3 HD
+http://88.99.165.164:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/787.png" group-title="MYIPTV კინო",BCU Мультсериал
+http://88.99.165.164:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964
+#EXTINF:-1 group-title="MYIPTV კინო",BCU Сваты HD
+http://88.99.165.164:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
+#EXTINF:-1 group-title="MYIPTV კინო",BCU СССР HD
+http://88.99.165.164:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
+#EXTINF:-1 tvg-logo="https://img.rnx.ru/logotvchannel/779-250.jpg" group-title="MYIPTV კინო",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/filmzone.png" group-title="MYIPTV კინო",FilmZone
+http://fs1.starnet.lv:8080/FilmZone/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-duo-3-hd-spot.png" group-title="MYIPTV კინო",Duo 3
+http://94.232.127.28:8080/sony/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-duo-6-hd-spot.png" group-title="MYIPTV კინო",Duo 6
+http://94.232.127.28:8080/sony-turbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%A8%D0%BE%D0%BA%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%B5.svg/revision/latest/scale-to-width-down/220?cb=20201226083012&path-prefix=ru" group-title="MYIPTV კინო",Шокирующее
+http://178.217.72.72/shokiruushee/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raz-media.se/wp-content/uploads/2022/05/duo-smartzone.png" group-title="MYIPTV კინო",SmartZone
+http://fs1.starnet.lv:8080/SmartZone/index.m3u8
+#EXTINF:-1 tvg-logo="https://telset.ee/userfiles/uploads/images/kino7_color%402x.png" group-title="MYIPTV კინო",Kino7
+http://fs1.starnet.lv:8080/Kino7/index.m3u8
+#EXTINF:-1 tvg-logo="https://best4sport.tv/file/leagues/347-logo/tv-extra.jpg" group-title="MYIPTV კინო",TVExtra
+http://fs1.starnet.lv:8080/TVExtra/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7e/%D0%9A%D0%B0%D0%BC%D0%B5%D0%B4%D0%B8_%282021%29.svg/revision/latest/scale-to-width-down/220?cb=20211208090416&path-prefix=ru" group-title="MYIPTV კინო",Камеди
+http://217.25.80.16/kamedi_hd/mono.m3u8
+#EXTINF:-1 tvg-id="kineko" tvg-logo="https://avatars.mds.yandex.net/get-ott/223007/2a000001839299664bb53e3389191e2cbc75/orig" group-title="MYIPTV კინო",Кинеко
+http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
+#EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://www.cableman.ru/sites/default/files/kinopokaz.png" group-title="MYIPTV კინო",Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1031.png" group-title="MYIPTV კინო",CineMan Top
+http://88.99.165.164:6878/ace/getstream?infohash=8e07c3d6077be4d88860ab195db98a57e4fd3ca2
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1030.png" group-title="MYIPTV კინო",CineMan
+http://88.99.165.164:6878/ace/getstream?infohash=71acc70a75cf545f379890d8e015ec47b92cc066
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSaTetryYrAs6-R5nBHtrFB_ob3ixlg4QKdA&s" group-title="MYIPTV კინო",DTR ZONA 1
+https://kino-stream.online/hls/DTRZONA1.m3u8?rand=0.22579279818893627
+#EXTINF:-1 tvg-logo="https://static.donationalerts.ru/uploads/images/1173474/logo.png" group-title="MYIPTV კინო",STR TV
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/kino-1-international.webp" group-title="MYIPTV კინო",Кино 1 Internationa
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/good-films.webp" group-title="MYIPTV კინო",Good Films
+https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/selecaotv.webp" group-title="MYIPTV კინო",selecao tv
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1736800706314.png" group-title="MYIPTV მუსიკა",ქართული მუსიკალური ბლოკი
+https://livechannel.mdc.akamaized.net/stitch/livechannel/706/master.m3u8?channel=live_stream_706
+#EXTINF:-1 lo="http://tvtm.one/images/chIcons/1599.png" tvg-logo="https://static.mar.tv/logos/320/34.png" group-title="MYIPTV მუსიკა",GE: MusicBox
+http://2.57.217.99:8080//hls/34musge/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2055.png" group-title="MYIPTV მუსიკა",GE: Stereo Plus
+http://2.57.217.99:8080//hls/35m/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.mar.tv/logos/320/994.png" group-title="MYIPTV მუსიკა",GE: Batumi 2
+http://2.57.217.99:8080//hls/batumitv2/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2040.png" group-title="MYIPTV მუსიკა",GE: Dardimandi
+http://tinyurl.com/3zje87av/musictv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8SKtiFUn3K9DB0-3DMHMRJp4TDmzVKvr_sxb8dI2uBGNKriuA4hQp3rq3JZivyyGnw" group-title="MYIPTV მუსიკა",Indian Music
+https://live20.bozztv.com/giatvplayout7/ushba-t4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="MYIPTV მუსიკა",Baraza HD Music TV
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="MYIPTV მუსიკა",Baraza Relax
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/chunklist_w340576673.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="MYIPTV მუსიკა",Baraza GOLD
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/chunklist_w428892978.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hdyJ4PT.png" group-title="MYIPTV მუსიკა",MTVMusic.uk
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/27.png" group-title="MYIPTV მუსიკა",RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="MYIPTV მუსიკა",MTVLive.uk
+http://190.102.246.93:9005/play/a01p
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/490.png" group-title="MYIPTV მუსიკა",Bridge TV
+http://tinyurl.com/Argaavrcelo/BRIDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/biz-music.jpg" group-title="MYIPTV მუსიკა",BIZ TV MUSIC
+https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1.png" group-title="MYIPTV შერეული",Первый HD
+http://2.57.217.85:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2.png" group-title="MYIPTV შერეული",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/3.png" group-title="MYIPTV შერეული",НТВ HD
+https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/5.png" group-title="MYIPTV შერეული",ТНТ HD
+http://tinyurl.com/Argaavrcelo/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8jGtD3bndCSUwgdEeVZ4m2my8WHTPc-HtA&s" group-title="MYIPTV შერეული",Xəzər TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/kanal-ukraina3789.logowik.com.webp" group-title="MYIPTV შერეული",Ukraina
+https://fl1004.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/420.png" group-title="MYIPTV შერეული",ю
+http://tinyurl.com/Argaavrcelo/U/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/11.png" group-title="MYIPTV შერეული",Viju Explore HD
+http://tinyurl.com/Argaavrcelo/viasatexplor/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/21.png" group-title="MYIPTV შერეული",СТС HD
+http://tinyurl.com/Argaavrcelo/CTC/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/627.png" group-title="MYIPTV შერეული",Зоопарк
+http://tinyurl.com/Argaavrcelo/zoopark/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/73.png" group-title="MYIPTV შერეული",Наука
+http://tinyurl.com/Argaavrcelo/nauka/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbF8yCvGz36M9ZcgOWFuCe_-RUiKWA_jNAA&s" group-title="MYIPTV შერეული",Дикая охота HD
+http://88.99.165.164:6878/ace/getstream?infohash=c5bac5ae6b8f86668fab3776ff09bee03a272736
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/12.png" group-title="MYIPTV შერეული",Viju Nature HD
+http://tinyurl.com/Argaavrcelo/viasatnatur/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/126.png" group-title="MYIPTV შერეული",Viju History `HD
+http://tinyurl.com/Argaavrcelo/viasathistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://icdn.lenta.ru/images/2023/11/17/15/20231117150007779/preview_bac275254e9277f555a3b8fa8fd951e3.jpg" group-title="MYIPTV შერეული",Бенни Хилла
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://aif-s3.aif.ru/images/034/238/65a16008fd3eb81464aa7f4d10dd0b64.png" group-title="MYIPTV შერეული",Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/614.png" group-title="MYIPTV შერეული",Арсенал HD
+http://tinyurl.com/Argaavrcelo/arsenal2/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.tradewheel.com/uploads/images/products/5/3/myiptv-hot-sale-in-singapore-brunei-malaysia-indonesia-ip-tv-box-android-no-channel-include-iptv-m3u0-0045777001620640314.png.webp" group-title="MYIPTV შერეული",TVRUS
+http://tinyurl.com/Argaavrcelo/TVRUS/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/4.png" group-title="MYIPTV შერეული",Рен ТВ HD
+http://tinyurl.com/Argaavrcelo/RENTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/633.png" group-title="MYIPTV შერეული",Перец International
+http://tinyurl.com/Argaavrcelo/PEREC/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/729.png" group-title="MYIPTV შერეული",Мир HD
+http://tinyurl.com/Argaavrcelo/NTVMIR/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/2454.png" group-title="MYIPTV შერეული",Viju+ Planet HD
+http://tinyurl.com/Argaavrcelo/viasatplaneta/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/438.png" group-title="MYIPTV შერეული",Техно 24
+http://tinyurl.com/Argaavrcelo/t24/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/448.png" group-title="MYIPTV შერეული",Охота и рыбалка
+http://tinyurl.com/Argaavrcelo/oxotaribalka/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tayny_galaktiki.png" group-title="MYIPTV შერეული",Тайны Галактики
+http://85.117.61.97:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="MYIPTV შერეული",CGTN
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioamra.com/wp-content/uploads/2020/09/radioamranewlogoshadow.png" group-title="MYIPTV რადიო",Amra FM
+https://radio.garden/api/ara/content/listen/wgOH7huD/channel.mp3
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15829/7d147c70-596f-11ea-94c9-e79df396a0ec_100x100.png" group-title="MYIPTV რადიო",რადიო ჯორჯიან Თაიმსი
+http://tinyurl.com/3zje87av/fm-georgiantimes-92.3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15091/493c3020-ba34-11e7-be04-232427982941_100x100.png" group-title="MYIPTV რადიო",რადიო Ძველი ქალაქი
+http://tinyurl.com/3zje87av/fm-radiodk-107.9/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15215/45555b10-2b79-11e8-a7df-ffaa16a1f883_100x100.png" group-title="MYIPTV რადიო",აᲗინაᲗი
+http://tinyurl.com/3zje87av/fm-atinati-105.9/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15102/22240830-c46b-11e7-b90b-cde310934900_100x100.png" group-title="MYIPTV რადიო",ობიექტივი
+http://tinyurl.com/3zje87av/fm-obieqtivi-105.1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15157/e6a3b2c0-f6c5-11e7-986d-73afab632a7b_100x100.png" group-title="MYIPTV რადიო",ᲗრიალეᲗი
+http://tinyurl.com/3zje87av/fm-trialeti-104.9/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15245/42183020-46d8-11e8-87a5-8dc5c2399f89_100x100.png" group-title="MYIPTV რადიო",რადიო აᲭარა
+http://tinyurl.com/3zje87av/fm-adjara-104.5/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15766/5eceb020-20bd-11ea-883b-fb511f4b027d_100x100.png" group-title="MYIPTV რადიო",რადიო პოზიტივი
+http://tinyurl.com/3zje87av/fm-radiopositive-104.3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15102/b35890c0-c46a-11e7-95af-d512ec8e990d_100x100.png" group-title="MYIPTV რადიო",რადიო პალიტრა
+http://tinyurl.com/3zje87av/fm-palitra-103.9/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15706/d77b8600-e9d6-11e9-8807-f5e12b771b46_100x100.png" group-title="MYIPTV რადიო",არგო
+http://tinyurl.com/3zje87av/fm-argo-102/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15102/6326b210-c46a-11e7-be90-37e44c7edc07_100x100.png" group-title="MYIPTV რადიო",AGFM
+http://tinyurl.com/3zje87av/fm-ag-101.5/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15313/07da75d0-8443-11e8-9129-732a2765f5ca_100x100.png" group-title="MYIPTV რადიო",აფხაზეᲗის ხმა
+http://tinyurl.com/3zje87av/fm-abkhazia-98.9/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15255/5619d580-4fa2-11e8-b27e-bba104116e2f_100x100.png" group-title="MYIPTV რადიო",რადიო უცნობი
+http://tinyurl.com/3zje87av/fm-ucnobi-98.1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15282/b3989ae0-6895-11e8-b6a8-3931e27bc2e1_100x100.png" group-title="MYIPTV რადიო",რადიო 4
+http://tinyurl.com/3zje87av/fm-radio4-97.8/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15091/b9ac4780-ba31-11e7-83fe-a5f36d04b8e4_100x100.png" group-title="MYIPTV რადიო",დარდიმანდი
+http://tinyurl.com/3zje87av/fm-dardimandi-97.1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15091/84416320-ba31-11e7-ae12-db3c570c237d_100x100.png" group-title="MYIPTV რადიო",რადიო არ დაიდარდო
+http://tinyurl.com/3zje87av/fm-ardaidardo-96.7/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/16682/1cbd7510-61b6-11ed-a84f-234242c046e8_100x100.jpeg" group-title="MYIPTV რადიო",GIPA
+http://tinyurl.com/3zje87av/fm-gipa-94.3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15091/1c500200-ba30-11e7-a94e-effe9c9b81b0_100x100.png" group-title="MYIPTV რადიო",Star fm
+http://tinyurl.com/3zje87av/fm-star-93.9/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/16892/057fe300-2019-11ee-a126-69775613faa9_100x100.png" group-title="MYIPTV რადიო",რადიო სივრცე
+http://tinyurl.com/3zje87av/fm-sivrce/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/16003/bb692d40-f81c-11ea-a8c7-5f0cd5288bab_100x100.png" group-title="MYIPTV რადიო",რადიო ბაᲗუმი
+http://tinyurl.com/3zje87av/fm-batumi-93.7/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15246/15b1b7a0-47c3-11e8-ba80-418158652275_100x100.png" group-title="MYIPTV რადიო",ჰერეᲗი
+http://tinyurl.com/3zje87av/fm-hereti-102.8/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15676/2571fd20-ceea-11e9-872c-6f76f87c77c7_100x100.png" group-title="MYIPTV რადიო",რადიო ციტრუსი
+http://tinyurl.com/3zje87av/fm-citrus-97.3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15091/02acd6f0-ba34-11e7-9a4a-bd987d1757f8_100x100.png" group-title="MYIPTV რადიო",ფორტუნა
+http://tinyurl.com/3zje87av/fm-radiofortuna-106.9/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15736/89e9e990-0551-11ea-b6cf-77fe5c2f08ce_100x100.png" group-title="MYIPTV რადიო",ფორტუნა პლუს
+http://tinyurl.com/3zje87av/fm-radiofortunaplus-103.4/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15091/3c7aa270-ba30-11e7-a38d-ed0d15f1809a_100x100.png" group-title="MYIPTV რადიო",ავტორადიო
+http://tinyurl.com/3zje87av/fm-autoradio-95.1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15246/46d32810-47c3-11e8-aee2-33949b5b8352_100x100.png" group-title="MYIPTV რადიო",Თბილისი
+http://tinyurl.com/3zje87av/fm-tbilisi-93.5/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15246/6000d710-47c3-11e8-8e4b-dd31da77cfe3_100x100.png" group-title="MYIPTV რადიო",Relax Web Radio
+http://tinyurl.com/3zje87av/fm-relax-web-radio/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiomixer.net/images/2023/11/01/YWT3JC4mWYkfFUAzLthwQmfyrlfTdm3VgrvNmzFA.jpg" group-title="რადიო რუს",Радио Родных Дорог
+https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://frocus.net/images/logotv/original/dorojnoe_radio_tiraspol.jpg" group-title="რადიო რუს",Дорожное FM
+https://stream-msk-17.ott.tricolor.tv/dtv/id949_MSKSG-PVR-1--dorozhnoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tv2free.ru/sites/default/files/radio-logo/radio-evropa-plyus-1659175383.jpg" group-title="რადიო რუს",Europe Plus
+https://stream-msk-17.ott.tricolor.tv/dtv/id945_MSKSG-PVR-1--europa_plus/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-logotip-avtoradio-na-prozrachnom-fone-6.jpg" group-title="რადიო რუს",Авто Радио
+https://stream-msk-04.ott.tricolor.tv/dtv/id766_MSKSG-PVR-1--Avtoradio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tv2free.ru/sites/default/files/radio-logo/radio-radio-maximum-1660163074.jpg" group-title="რადიო რუს",Радио Maximum
+https://stream-msk-05.ott.tricolor.tv/dtv/id763_MSKSG-PVR-1--Maximum/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://ra-germes.ru/upload/iblock/3de/russkoe_radio_img.jpg" group-title="რადიო რუს",Русское Радио
+https://stream-msk-20.ott.tricolor.tv/dtv/id962_MSKSG-PVR-1--Russkoe_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://software-expert.ru/wp-content/uploads/2021/09/umor_fm.jpg" group-title="რადიო რუს",Юмор FM
+https://stream-msk-20.ott.tricolor.tv/dtv/id956_MSKSG-PVR-1--yumor_fm/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://nerios.ru/roster/uploads/posts/2024-03/mibzo_nnejs-min.jpg" group-title="რადიო რუს",Радио Ваня
+https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0829/eb/4eecf3a0b670307e6947fdf2cd5f01eb.png" group-title="რადიო რუს",Comedy Radio
+https://stream-msk-20.ott.tricolor.tv/dtv/id966_MSKSG-PVR-1--Comedy_Radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" group-title="რადიო რუს",Dance FM
+https://stream-msk-20.ott.tricolor.tv/dtv/id952_MSKSG-PVR-1--dfm/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://vivareit.ru/wp-content/uploads/2015/10/retro99.jpg" group-title="რადიო რუს",Ретро FM
+https://stream-msk-17.ott.tricolor.tv/dtv/id967_MSKSG-PVR-1--Retro_FM/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://i.podster.fm/img/220577/crop/yes/size/default/220577-1.jpg" group-title="რადიო რუს",ХИТ FM
+https://stream-msk-20.ott.tricolor.tv/dtv/id953_MSKSG-PVR-1--hit_fm/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sun9-32.userapi.com/hvYm3QEIKaM895rZ2fgNkIh0P18i-Oe-FjwIMw/rL09pDNrMus.jpg" group-title="რადიო რუს",Радио 7
+https://stream-msk-17.ott.tricolor.tv/dtv/id955_MSKSG-PVR-1--radio_na_7_kholmakh/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://static.tildacdn.com/tild3463-6266-4664-a637-333161383337/3c484c65a2d021a349aa.jpg" group-title="რადიო რუს",Радио Воскресение
+https://stream-msk-06.ott.tricolor.tv/dtv/id780_MSKSG-PVR-1--Voskreseniye/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://maps.adpass.ru/wp-content/uploads/2023/06/132433557_zvezd_thumb_fed_photo.jpg" group-title="რადიო რუს",Радио Звезда
+https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://airpersonalities.ru/Foto/04April2016/radio_kp_bez_chastoty-7.jpg" group-title="რადიო რუს",Радио Комсомольская Правда
+https://stream-msk-20.ott.tricolor.tv/dtv/id958_MSKSG-PVR-1--komsomolskaya_pravda/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://papik.pro/grafic/uploads/posts/2023-04/1681606753_papik-pro-p-logotipi-radiostantsii-vektor-38.jpg" group-title="რადიო რუს",Радио ENERGY
+https://stream-msk-17.ott.tricolor.tv/dtv/id959_MSKSG-PVR-1--Radio_ENERGY/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site529584/5bfd99e3-5611-44b7-b941-cadec18518bd/5bfd99e3-5611-44b7-b941-cadec18518bd-11835027.jpeg" group-title="რადიო რუს",Радио Romantika
+https://stream-msk-17.ott.tricolor.tv/dtv/id965_MSKSG-PVR-1--Radio_Romantika/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiobitva.ru/images/artists/radio-dlya-dvoih.jpg" group-title="რადიო რუს",FM Радио для Дв❤️их
+https://stream-msk-10.ott.tricolor.tv/dtv/id756_MSKSG-PVR-1--Radio_dlya_Dvoikh/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://vashifinancy.ru/upload/iblock/68a/68ad11cd47ed14bc37103967fe800822.jpg" group-title="რადიო რუს",Детское Радио
+https://stream-msk-05.ott.tricolor.tv/dtv/id771_MSKSG-PVR-1--Detskoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sibexpo.ru/upload/iblock/dc7/лого МсМ Улан-Удэ.jpg" group-title="რადიო რუს",Радио МСМ
+http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sun1-27.userapi.com/K00RzIbIRMgpmKk5gMyIlZ_XuwhfIeOk_ID50g/WKEk93tgVTQ.jpg" group-title="რადიო რუს",Радио Град Петров
+https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://semey.city/assets/templates/uikit/radio/images/novoe-msk-180.jpg" group-title="რადიო რუს",Новое Радио
+https://stream-msk-17.ott.tricolor.tv/dtv/id957_MSKSG-PVR-1--novoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://burunen.ru/upload/resize_cache/iblock/22e/800_800_1/22e66b487416a0a7277b1bd574cd551b.jpg" group-title="რადიო რუს",Буряд FM
+https://stream-msk-17.ott.tricolor.tv/dtv/id960_MSKSG-PVR-1--Buraad/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiopotok.ru/f/station/512/2367.png" group-title="რადიო რუს",Радио Краснодар
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://grodno24.com/assets/thumbs/images/2018/9/centr-fm.jpg" group-title="რადიო რუს",Радио Центр FM
+https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://www.hist.msu.ru/pictures/partners/rsputnik.jpg" group-title="რადიო რუს",Радио Спутник
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://рекламанащитах.рф/wp-content/uploads/2021/01/вести-фм.jpg" group-title="რადიო რუს",Радио Вести FM
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="რადიო რუს",EHR FM Русские Хиты
+http://stream.ehrhiti.lv:8000/khr.mp3
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="რადიო რუს",EHR FM Русские Хиты 2000-х
+http://stream.ehrhiti.lv:8000/Stream_66.mp3
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-08/1597748599_1813138yfzrhs5i.png" group-title="ფილმები ქართულად",მკვლელი გუნდი
+http://digipluslive.com/digitv-videos/ch35483/1282.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-08/1597688800_17202439rgmuarxf.png" group-title="ფილმები ქართულად",ტესლა
+http://digipluslive.com/digitv-videos/ch35483/1281.mp4
+#EXTINF:-1 tvg-logo="https://adjaranetto.com/uploads/posts/2019-08/1565902292_5vhssueve25bmrof1hyapywgap.jpg" group-title="ფილმები ქართულად",ჯონ ვიკი
+http://digipluslive.com/digitv-videos/ch35483/1280.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-11/thumbs/slwysevvv3r047cjrprabggnsfl.jpg" group-title="ფილმები ქართულად",ბიჭი ზოლიან პიჯამაში
+http://digipluslive.com/digitv-videos/ch35483/1278.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-09/1601053706_251961679l7wnjc.png" group-title="ფილმები ქართულად",ნამდვილი მწერალი
+http://digipluslive.com/digitv-videos/ch35483/1277.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13AQlCLQpTqZarCmcVUHOyGIxX3TRiF8Xjg&s" group-title="ფილმები ქართულად",მწვანე გზა
+http://digipluslive.com/digitv-videos/ch35483/1276.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-11/thumbs/clfvwgbzxdqw6ivfz7uwqqwopik.jpg" group-title="ფილმები ქართულად",ბეოვულფი
+http://digipluslive.com/digitv-videos/ch35483/1275.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/12PuU23kkDLvTd0nb8hMlE3oShB.jpg" group-title="ფილმები ქართულად",400 დარტყმა
+http://digipluslive.com/digitv-videos/ch35483/1274.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-03/1585652865_3113552ip61mrya.jpg" group-title="ფილმები ქართულად",ფორსაჟი 5
+http://digipluslive.com/digitv-videos/ch35483/1272.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-11/1606413821_xivt1zabkx6smic7fktkt89b64s.jpg" group-title="ფილმები ქართულად",მეგობრული თამაშები
+http://digipluslive.com/digitv-videos/ch35483/1271.mp4
+#EXTINF:-1 tvg-logo="https://static.moviege.com/movies/poster/small/8RW2runSEc34IwKN2D1aPcJd2UL.jpg" group-title="ფილმები ქართულად",ბეტმენი: დასაწყისი
+http://digipluslive.com/digitv-videos/ch36235/1606.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-02/thumbs/tvvl6w58elulpx1nyoie5eyiops.jpg" group-title="ფილმები ქართულად",ბეტმენი სუპერმენის წინაამღდეგ
+http://digipluslive.com/digitv-videos/ch36235/1598.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-12/medium/edv5czvwj09uposy2y6iwdhk8bt.jpg" group-title="ფილმები ქართულად",დასაწყისი
+http://server2.digipluslive.com/digitv-videos/ch35483/1724.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-01/thumbs/672kuemtthcavysvy4eihelihfa.jpg" group-title="ფილმები ქართულად",სპექტრი: აგენტი 007
+http://server2.digipluslive.com/digitv-videos/ch35483/1725.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-07/thumbs/riyinlsq2kf1awogm80jqw5dlkp.jpg" group-title="ფილმები ქართულად",ელონა ჰოლმსი
+http://digipluslive.com/digitv-videos/ch35483/1028.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-01/1578394288_71151286um6mss.jpg" group-title="ფილმები ქართულად",ორი პაპი
+http://digipluslive.com/digitv-videos/ch35483/1029.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2021-01/medium/1612120739_extraction.webp" group-title="ფილმები ქართულად",დახსნა
+http://digipluslive.com/digitv-videos/ch35483/1030.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-03/1583934020_11143853hnpsijwn.jpg" group-title="ფილმები ქართულად",სპენსერის მარᲗლსაჯულება
+http://digipluslive.com/digitv-videos/ch35483/1031.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-06/thumbs/zpoqau4gxzrmcpzslfj9b0vcial.jpg" group-title="ფილმები ქართულად",ადამიანი ობობა-სამყაროს მიᲦმა
+http://digipluslive.com/digitv-videos/ch35483/1032.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-04/medium/bsmso9xupd4r4vwtpqighn2quln.jpg" group-title="ფილმები ქართულად",იდუმალი მკვლელობა
+http://digipluslive.com/digitv-videos/ch35483/1033.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-08/thumbs/tbqfbose1rgknzv5aisfdpjbsbk.jpg" group-title="ფილმები ქართულად",მაუგლი
+http://digipluslive.com/digitv-videos/ch35483/1034.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2014-01/1389464207_back-to-the-future.jpg" group-title="ფილმები ქართულად",უკან მომავალᲨი
+http://digipluslive.com/digitv-videos/ch35483/1040.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-10/1603547649_24154921nacc35hr.png" group-title="ფილმები ქართულად",მორიგი ფილმი ბორატზე
+http://digipluslive.com/digitv-videos/ch35483/1041.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-09/thumbs/b9ceobiihcx1ug1tpw8hxmpi7nm.jpg" group-title="ფილმები ქართულად",დიდებული Შოუმენი
+http://digipluslive.com/digitv-videos/ch35483/1042.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc4MDI2ZGUtOGZkNS00ZDFiLTllYTYtNGRmZDgxN2FiMjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ფილმები ქართულად",როცა მარნი იყო ᲩემᲗან
+http://digipluslive.com/digitv-videos/ch35483/1043.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-03/1584956784_23104510hoogzylg.jpg" group-title="ფილმები ქართულად",ადაპტაცია
+http://digipluslive.com/digitv-videos/ch35483/1044.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2013-06/1371391676_k-pax.jpg" group-title="ფილმები ქართულად",კეი პაკსი
+http://digipluslive.com/digitv-videos/ch35483/1045.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-02/thumbs/geu2qnie6e77ni6lcu6mxlnbvix.jpg" group-title="ფილმები ქართულად",ინტერსტელარი
+http://digipluslive.com/digitv-videos/ch35483/1046.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2022-09/freedom-writers-poster.jpg" group-title="ფილმები ქართულად",Თავისუფლების მწერლები
+http://digipluslive.com/digitv-videos/ch35483/1048.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-09/thumbs/momkkuwburntqkbf6ez7rvhyvhe.jpg" group-title="ფილმები ქართულად",Შერლოკ ჰოლმსი
+http://digipluslive.com/digitv-videos/ch35483/1049.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-03/thumbs/ix77zmsquv2qt7toenn2mmeudef.jpg" group-title="ფილმები ქართულად",მაროუბონები
+http://digipluslive.com/digitv-videos/ch35483/1050.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-12/medium/kceljh1tcmarlqvwigkdb09aeaw.jpg" group-title="ფილმები ქართულად",ლომი
+http://digipluslive.com/digitv-videos/ch35483/1051.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-05/thumbs/6pszvinvkr1r31pp7gjnydhex5p.jpg" group-title="ფილმები ქართულად",Ძალიან ხმამაᲦლა და უᲩვეულოდ ახლოს
+http://digipluslive.com/digitv-videos/ch35483/1052.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-07/thumbs/8tzytuwezp8jbcsvhyo0o46tfbo.jpg" group-title="ფილმები ქართულად",ᲨეᲨლილი მაქსი
+http://digipluslive.com/digitv-videos/ch35483/1053.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjlYUfIrWeEGVvLF7pTNkSNXWwNusxsR9dA&s" group-title="ფილმები ქართულად",ვარსკვლავური ომები : განდეგილი
+http://digipluslive.com/digitv-videos/ch36235/1607.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-02/medium/ulzhluwrpk07p1ykdwqlznqh1jl.jpg" group-title="ფილმები ქართულად",შურისმაძიებლები 4 : დასასრული
+http://digipluslive.com/digitv-videos/ch36235/1608.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-10/1601903288_515712ymitobvo.jpg" group-title="ფილმები ქართულად",მე ვარ ლეგენდა
+http://server2.digipluslive.com/digitv-videos/ch35483/1728.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-08/1597688583_17202131sokfrgye.png" group-title="ფილმები ქართულად",პროექტი ძალა
+http://digipluslive.com/digitv-videos/ch36235/1373.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-04/medium/rzrwtcfvttcn1zpx2xv4j3tsdju.jpg" group-title="ფილმები ქართულად",თორი : რაგნაროკი
+http://digipluslive.com/digitv-videos/ch36235/1609.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ka/4/4d/Avengers_Infinity_War_poster.jpg" group-title="ფილმები ქართულად",შურისმაძიებლები :  უსასრულობის ომი
+http://digipluslive.com/digitv-videos/ch36235/1601.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-01/1579618925_2116172zzahght.jpg" group-title="ფილმები ქართულად",უცხო სამყაროს ფერი
+http://digipluslive.com/digitv-videos/ch36235/1602.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-02/thumbs/gwi5kl7hewaotffia14e4sbogra.jpg" group-title="ფილმები ქართულად",დოქტორ სტრეინჯი
+http://digipluslive.com/digitv-videos/ch36235/1603.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-10/thumbs/zdw7wf97vsq0yngomxdqfcedujx.jpg" group-title="ფილმები ქართულად",აქვამენი
+http://digipluslive.com/digitv-videos/ch36235/1604.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-02/thumbs/9tghdvwrqkbzwdxdodhyxemoe6j.jpg" group-title="ფილმები ქართულად",მატრიცა 2
+http://digipluslive.com/digitv-videos/ch36235/1590.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-02/thumbs/s5hqf2gb3lio2crcfwnl9sn1o1o.jpg" group-title="ფილმები ქართულად",ტრანსფორმერები : უკანასკნელი რაინდი
+http://digipluslive.com/digitv-videos/ch36235/1591.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ka/9/9b/Blade_Runner_2049_poster.png" group-title="ფილმები ქართულად",დანის პირზე მორბენალი 2049
+http://digipluslive.com/digitv-videos/ch36235/1597.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2019-09/1568106611_1011930h4qdbpop.jpg" group-title="ფილმები ქართულად",ჯოკერი
+http://digipluslive.com/digitv-videos/ch36235/1599.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2023-05/medium/y4mbh0ejblmuozv9axm4qjlmhzz.jpg" group-title="ფილმები ქართულად",გალაქტიკის მცველები 2
+http://digipluslive.com/digitv-videos/ch36235/1600.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2022-10/medium/fmmrl8fd9grcfjvsx0sufwkeoop.jpg" group-title="ფილმები ქართულად",ჯადოსნური ცხოველები 2
+http://digipluslive.com/digitv-videos/ch36235/1362.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-07/1594387044_10151541uypvur7c.png" group-title="ფილმები ქართულად",ძველი გვარდია
+http://digipluslive.com/digitv-videos/ch36235/1370.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2022-03/1648151053_spider-man-no-way-home-poster.webp" group-title="ფილმები ქართულად",ადამიანი ობობა - სახლში დაბრუნება
+http://digipluslive.com/digitv-videos/ch36235/1376.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-02/thumbs/ulzhluwrpk07p1ykdwqlznqh1jl.jpg" group-title="ფილმები ქართულად",შურისმაძიებლები
+http://digipluslive.com/digitv-videos/ch36235/1378.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-03/1585043779_24105527hpstsaob.jpg" group-title="ფილმები ქართულად",მეექვსე გრძნობა
+http://server2.digipluslive.com/digitv-videos/ch35483/1726.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-01/thumbs/zdua4fnhbxpadzvojiu0rgn6chr.jpg" group-title="ფილმები ქართულად",მამა მია
+http://server2.digipluslive.com/digitv-videos/ch35483/1727.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2026-02/medium/vtxupwkdlllnlvygjkya267ntuh.jpg" group-title="ფილმები ქართულად",წვეულება ვეგასში 3
+http://server2.digipluslive.com/digitv-videos/ch35483/1729.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-12/thumbs/de5qbidvr4dnkbz4a0zjks4ltg.jpg" group-title="ფილმები ქართულად",ამერიკული ნამცხვარი
+http://server2.digipluslive.com/digitv-videos/ch35483/1730.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-03/1583934020_11143853hnpsijwn.jpg" group-title="ფილმები ქართულად",სპენსერის მართლმსაჯულება
+http://digipluslive.com/digitv-videos/ch35483/1031.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2022-10/medium/zieug1essduwuc5lpwuaw1uxy2o.jpg" group-title="ფილმები ქართულად",ჯონ ვიკი : თავი 3
+http://digipluslive.com/digitv-videos/ch36235/1365.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-02/thumbs/hur3i1oxvkipuajvf2uvvxv9alc.jpg" group-title="ფილმები ქართულად",ჯონ ვიკი : თავი 2
+http://server2.digipluslive.com/digitv-videos2/ch35778/1312.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-02/medium/konwc3djgue6mjfidis27cqd6rx.jpg" group-title="ფილმები ქართულად",უცხო : კოვენანტი
+http://digipluslive.com/digitv-videos/ch35483/1047.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-05/1589977552_2014243708rho7o0.png" group-title="მულტფილმები ქართულად",ნახევარ ქათამა
+http://server2.digipluslive.com/digitv-videos/ch35977/1181.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2025-05/medium/90ftx4kfrob2ocqz7b60twniqzv.jpg" group-title="მულტფილმები ქართულად",პიტერ პენი
+http://server2.digipluslive.com/digitv-videos/ch35977/1180.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-05/thumbs/cugyrz4twij3qgvgprfey984nib.jpg" group-title="მულტფილმები ქართულად",სპირიდი
+http://server2.digipluslive.com/digitv-videos/ch35977/1159.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2020-10/1603390524_222010444j2x1osp.png" group-title="მულტფილმები ქართულად",სკუბი დუ ჰელოუვინი
+http://server2.digipluslive.com/digitv-videos/ch35977/1160.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/4JeejGugONWpJkbnvL12hVoYEDa.jpg" group-title="მულტფილმები ქართულად",მოანა
+http://server2.digipluslive.com/digitv-videos/ch35977/1172.mp4
+#EXTINF:-1 tvg-logo="https://img.mykadri.click/uploads/posts/2024-12/medium/4yzpsylmjhbqewzjkpuef8gclnw.jpg" group-title="მულტფილმები ქართულად",მოანა 2
+https://cdn1.mondostudio.xyz/animation/Moana%202-hd.mp4
+#EXTINF:-1 tvg-logo="https://static.moviege.com/movies/poster/normal/6DDJ8o2d6T4fpGWECLF4xBGTyAM.jpg" group-title="მულტფილმები ქართულად",მზეთუნახავი და ურჩხული
+http://server2.digipluslive.com/digitv-videos/ch35977/1174.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/dyhaB19AICF7TO7CK2aD6KfymnQ.jpg" group-title="მულტფილმები ქართულად",შრეკი
+http://server2.digipluslive.com/digitv-videos/ch35977/1187.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg" group-title="მულტფილმები ქართულად",შრეკი 2
+http://server2.digipluslive.com/digitv-videos/ch35977/1188.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/jaNe16gE9zdAYyVwRqmlmRKshHm.jpg" group-title="მულტფილმები ქართულად",შრეკი 3
+http://server2.digipluslive.com/digitv-videos/ch35977/1189.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/rXhd4p6tHlgYHqRtn1wdrA2EZwQ.jpg" group-title="მულტფილმები ქართულად",Spirit Animation ცხენებზე
+http://server2.digipluslive.com/digitv-videos/ch35977/1159.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/vcn7a7ENxi5TBTlka4wYLzmKQIp.jpg" group-title="მულტფილმები ქართულად",Lilo & Stich
+http://server2.digipluslive.com/digitv-videos/ch35977/1176.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/fmjCL1PCAqO5kr8ztOT5UXTouVw.jpg" group-title="მულტფილმები ქართულად",Spiderman Animation
+http://server2.digipluslive.com/digitv-videos/ch35483/1032.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg" group-title="მულტფილმები ქართულად",Peter Pan პიტერ პენი
+http://server2.digipluslive.com/digitv-videos/ch35977/1180.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg" group-title="მულტფილმები ქართულად",ბალტო
+http://server2.digipluslive.com/digitv-videos/ch35977/2321.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/1382VHxqZDXu2t8i46zf4fP71JG.jpg" group-title="მულტფილმები ქართულად",მელია და მონადირე ძაღლი
+http://server2.digipluslive.com/digitv-videos/ch35977/1183.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/o3b8nenAzu5OJk7sbPJURwmeHSV.jpg" group-title="მულტფილმები ქართულად",ბალტო 2: მგელის ძიებაში
+http://server2.digipluslive.com/digitv-videos/ch35977/2322.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/8cUIHYXpDFYX6r5ZviQuRKCVLJ2.jpg" group-title="მულტფილმები ქართულად",მულანი 2
+http://server2.digipluslive.com/digitv-videos/ch35977/2480.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="მულტფილმები ქართულად",სათამაშოების ისტორიები
+http://server2.digipluslive.com/digitv-videos/ch35977/1926.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/eVGu0zsezaSCuN67zgNhzjeNI9Z.jpg" group-title="მულტფილმები ქართულად",სათამაშოების ისტორიები 2
+http://server2.digipluslive.com/digitv-videos/ch35977/1923.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg" group-title="მულტფილმები ქართულად",სათამაშოების ისტორიები 3
+http://server2.digipluslive.com/digitv-videos/ch35977/1924.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg" group-title="მულტფილმები ქართულად",სათამაშოების ისტორიები 4
+http://server2.digipluslive.com/digitv-videos/ch35977/1171.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/x7Itcg3ZdExKwdKguy73WPEqosW.jpg" group-title="მულტფილმები ქართულად",პლანეტა 51
+http://server2.digipluslive.com/digitv-videos/ch35977/1292.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/rSje3FS7ycJSglowlngjsvDt7vO.jpg" group-title="მულტფილმები ქართულად",დინოზავრი
+http://server2.digipluslive.com/digitv-videos/ch35977/1715.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/hKxlzUtwyEMZDmj58ijQqr5PoZn.jpg" group-title="მულტფილმები ქართულად",სკუბი დუ და მეცამეტე მოჩვენების წყევლა
+http://server2.digipluslive.com/digitv-videos/ch35977/1721.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg" group-title="მულტფილმები ქართულად",დორის ძიებაში (თევზები)
+http://server2.digipluslive.com/digitv-videos/ch35977/1194.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/sa9UQfzagl6VjSwkoknZcqfeWQE.jpg" group-title="მულტფილმები ქართულად",ლეგო
+http://server2.digipluslive.com/digitv-videos/ch35977/1195.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/mcl56J7tDPjzEesgpX4UPgAdbvf.jpg" group-title="მულტფილმები ქართულად",101 დალმატინელი 2
+http://server2.digipluslive.com/digitv-videos/ch35977/1286.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg" group-title="მულტფილმები ქართულად",მეფე ლომი 2
+http://server2.digipluslive.com/digitv-videos/ch35977/1182.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg" group-title="მულტფილმები ქართულად",მეფე ლომი
+http://server2.digipluslive.com/digitv-videos/ch35977/1175.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg" group-title="მულტფილმები ქართულად",ზოოტოპია
+http://server2.digipluslive.com/digitv-videos/ch35977/1167.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/ryKwNlAfDXu0do6SX9h4G9Si1kG.jpg" group-title="მულტფილმები ქართულად",კონკია
+http://server2.digipluslive.com/digitv-videos/ch35977/1168.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/ym7Kst6a4uodryxqbGOxmewF235.jpg" group-title="მულტფილმები ქართულად",რაპუნცელი
+http://server2.digipluslive.com/digitv-videos/ch35977/1170.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg" group-title="მულტფილმები ქართულად",წვრილფეხა
+http://server2.digipluslive.com/digitv-videos/ch35977/2360.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/q3mKnSkzp1doIsCye6ap4KIUAbu.jpg" group-title="მულტფილმები ქართულად",შინაური ცხოველების საიდუმლო ცხოვრება 2
+http://server2.digipluslive.com/digitv-videos/ch35977/2363.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/lQfdytwN7eh0tXWjIiMceFdBBvD.jpg" group-title="მულტფილმები ქართულად",მთვარეზე
+http://server2.digipluslive.com/digitv-videos/ch35977/2361.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/2gWiQ4mn85jcXtREVePlVViupeV.jpg" group-title="მულტფილმები ქართულად",მოკურცხლე 2
+http://server2.digipluslive.com/digitv-videos/ch35977/2320.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg" group-title="მულტფილმები ქართულად",კუნგფუ პანდა 1
+http://server2.digipluslive.com/digitv-videos/ch35977/1920.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg" group-title="მულტფილმები ქართულად",კუნგფუ პანდა 2
+http://server2.digipluslive.com/digitv-videos/ch35977/1921.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/mI2Di7HmskQQ34kz0iau6J1vr70.jpg" group-title="მულტფილმები ქართულად",მიტჩელები რობოტების წინააღმდეგ
+http://server2.digipluslive.com/digitv-videos/ch35977/1915.mp4
+#EXTINF:-1 tvg-rec="3" tvg-logo="https://static.moviege.com/movies/poster/normal/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg" group-title="მულტფილმები ქართულად",ფერდინარდი - პატარა ხარი
+http://server2.digipluslive.com/digitv-videos/ch35977/1293.mp4
