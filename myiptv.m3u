@@ -3,10 +3,10 @@
 http://tinyurl.com/3zje87av/gpb/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TVPirveli.ge" tvg-logo="https://img.ge/ib/th5Bd50.png" tvg-name="TV PIRVELI" group-title="MYIPTV ქართული",GE: Pirveli HD
 http://tinyurl.com/3zje87av/pirvelitv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://img.ge/ib/ETkjf40.png" tvg-name="RUSTAVI 2" group-title="MYIPTV ქართული",GE: Rustavi 2
-http://tinyurl.com/3zje87av/rustavi2hqnew/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Formula.ge" tvg-logo="https://static.mar.tv/logos/320/26.png" tvg-name="FORMULA" group-title="MYIPTV ქართული",GE: Formula HD
 http://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://img.ge/ib/ETkjf40.png" tvg-name="RUSTAVI 2" group-title="MYIPTV ქართული",GE: Rustavi 2
+http://tinyurl.com/3zje87av/rustavi2hqnew/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ImediTV.ge" tvg-logo="https://img.ge/ib/QuUU293.png" tvg-name="IMEDI TV HD" group-title="MYIPTV ქართული",GE: Imedi
 https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GDSTV.ge" tvg-logo="https://img.ge/i/FwC8E64.jpg" tvg-name="GDS TV" group-title="MYIPTV ქართული",GE: GDS
